@@ -105,9 +105,5 @@ ai
 
 新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+australia
+brisbane
